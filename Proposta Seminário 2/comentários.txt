@@ -1,0 +1,8 @@
+ajustes de hiperparametros com graficos tipo variando a função de perda qual foi o resultado pra cada um
+
+usar validação cruzada
+
+
+e fazer isso de avaliar 5 redes diferentes, unet, resnet, etc...
+
+essas curvas de matriz de confusão, perda e validação que tem no estudo é muito importante entender elas também e colocar na apresentação/relatório

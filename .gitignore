@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch
+*.pth
+*.pt
+
+# Datasets
+Dataset/
+blood_cell_dataset/
+
+# Models e Logs
+Proposta Seminário 2/pytorch_pipeline/Models/
+*.log
+
+# Ambientes virtuais
+venv/
+env/
+.env
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
