@@ -18,8 +18,8 @@ K_CV = 5
 # Resolução padrão das imagens
 IMAGE_SIZE = (224, 224)
 
-# Escolha da rede: 'resnet', 'vgg', 'densenet', 'efficientnet', 'mobilenet'
-NETWORK = 'resnet'
+# Escolha das redes para treinamento em sequência
+NETWORKS_TO_TRAIN = ['resnet', 'vgg', 'densenet', 'efficientnet', 'mobilenet']
 
 # Escolha da loss: 'bce', 'ce', 'focal', etc.
 LOSS = 'ce'
